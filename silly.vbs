@@ -1,6 +1,6 @@
 Dim iURL 
 Dim objShell
 
-iURL = "www.reddit.com"
+iURL = "http://www.be-able.be/thecompany/silly.html"
 set objShell = CreateObject("WScript.Shell")
 objShell.run(iURL)
